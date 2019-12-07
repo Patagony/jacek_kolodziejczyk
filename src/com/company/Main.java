@@ -8,7 +8,6 @@ public class Main {
         System.out.println("NAPIS 2");
         Double a;
         Double b;
-
-        System.out.println("Nowy branch");
+        
     }
 }
